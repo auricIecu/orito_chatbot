@@ -1,7 +1,5 @@
 # 🍌 Orito - Chatbot Inteligente
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # 🔍 ¿Qué es Orito?
 
 Orito es una solución de chatbot de próxima generación diseñada para transformar la interacción entre empresas y usuarios. Nuestra plataforma combina inteligencia artificial avanzada con una interfaz excepcionalmente intuitiva, ofreciendo una experiencia de conversación fluida y natural.
