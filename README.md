@@ -125,16 +125,13 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 4. Haz push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
-
 ## ✨ Agradecimientos
 
-- Equipo de desarrollo de Orito
-- Comunidad de código abierto
-- Todos los contribuyentes que han ayudado a mejorar este proyecto
+- Equipo de desarrollo de Orito (YO)
+- Profe Hugo
+- Profe Alberto
+- Profe Miguel
 
 ---
 
-Hecho con ❤️ por el equipo de Orito
+Hecho con ❤️ por el equipo de Orito (YO)
