@@ -1,0 +1,17 @@
+USER: Quiero aprender a suma
+
+ASSISTANT: ¡Claro que sí! La suma, o operación aritmética de sumar, es una de las operaciones básicas de la aritmética.
+
+Aquí tienes una explicación simple y un ejemplo de cómo sumar:
+
+**La regla de la suma:**
+
+Cuando sumas dos números, simplemente les agregas, es decir, juntamos los números para obtener un resultado más grande.
+
+**Ejemplo:**
+
+* 2 + 3 = ?
+ * Si tienes 2 perritos y te regalan 3 más, cuántos perritos tendrás ahora? La respuesta es 5.
+
+Por lo tanto, 2 + 3 = 5.
+
